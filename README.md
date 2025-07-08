@@ -4,7 +4,7 @@ Este proyecto consiste en una aplicación de visión artificial desarrollada en 
 
 ## Propósito del Proyecto
 
-El sistema fue diseñado como una solución para la Fundación Liceo Inglés, con el objetivo de monitorear y registrar el flujo de estudiantes al pasar por los servicios de **Snack** o **Lunch**. Busca reducir malas prácticas como el uso indebido de códigos de otros estudiantes, mediante la recolección visual de evidencias.
+El sistema fue diseñado con el objetivo de monitorear y registrar el flujo de estudiantes al pasar por los servicios de **Snack** o **Lunch**. Busca reducir malas prácticas como el uso indebido de códigos de otros estudiantes, mediante la recolección visual de evidencias.
 
 ## ⚙️ Funcionalidad del Script Principal (`camarita.py`)
 
